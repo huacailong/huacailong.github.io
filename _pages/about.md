@@ -2,17 +2,15 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'>Master Student in University at Buffalo</a>. 
-          <p>116, Pharmacy Building, Buffalo, NY, 14214</p> 
+subtitle: <a href='#'>Master Student in University at Buffalo</a>
           <p>xli267@buffalo.edu</p>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>116 Pharmacy Building</p>
+    <p>Buffalo, NY, 14214</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

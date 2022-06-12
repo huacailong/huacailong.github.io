@@ -21,8 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a Ph.D. student in [Salaphaka Lab](http://salapakalab.ece.umn.edu) at UMN. I received my Master's degree in Control System with Distinction from Imperial College London. I obtained Bachelor's degrees in Automation Engineering from Politecnico di Milano in Italy and from Electronic Information and Engineering from Tongji University in China. My main research interests lie in control systems, non-equilibrium statistical mechanics, and machine learning. My current research focuses on the non-equilibrium toolbox and uses non-equilibrium statistical mechanics to improve machine learning techniques. 
 
+**Technical Skills:** Python; Matlab; Simulink; Verilog; Latex; C++; Kicad; Mission planner; Keil; AMPL; Microsoft; 
 
+**Languages:** Native Speaker of Chinese; Native Speaker Level of English; Average Level of Italian
 
+**Interests:** Guitar; Badminton; Football; Travelling; Reading
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

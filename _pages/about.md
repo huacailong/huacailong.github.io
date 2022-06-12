@@ -11,10 +11,10 @@ profile:
   address: >
     <p>116 Pharmacy Building</p>
     <p>Buffalo, NY, 14214</p>
+    <p>social: true  # includes social icons at the bottom of the page<p/>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
 ---
 
 I'm currently a master student at Dr. Robert Bies Lab, University at Buffalo. My research interest is applying pharmacometric tools to solve the real world problems. I'm also a self-motivated learner,   

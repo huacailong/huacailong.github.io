@@ -13,8 +13,8 @@ profile:
     <p>Buffalo, NY, 14214</p>
 
 news: false  # includes a list of news items
+Education: true 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-Education: 
 social: true  # includes social icons at the bottom of the page
 ---
 

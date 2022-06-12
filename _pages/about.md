@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 200 Union St SE, Minneapolis, MN55455. Email: hua00023 at umn dot edu.
+subtitle: <a href='#'>Affiliations</a>. 200 Union St SE, Minneapolis, MN55455. Email.
 
 profile:
   align: right

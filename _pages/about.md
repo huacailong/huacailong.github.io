@@ -2,9 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: [<a href='#'>PhD student in Salapaka Lab of UMN </a>](http://salapakalab.ece.umn.edu/). 
-200 Union St SE, Minneapolis, MN55455. 
-Email - hua00023@umn.edu.
+subtitle: [<a href='#'>PhD student in Salapaka Lab of UMN </a>](http://salapakalab.ece.umn.edu/). 200 Union St SE, Minneapolis, MN55455. Email - hua00023@umn.edu.
 
 profile:
   align: right

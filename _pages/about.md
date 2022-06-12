@@ -6,7 +6,6 @@ subtitle: <a href='#'>PhD student in Salapaka Lab of UMN</a>.
           <p>200 Union St SE, Minneapolis, MN55455</p> 
           <p>Email - hua00023@umn.edu</p>   
           
-<!--           To change the line, use <p> in the beginning and </p> in the end, each line should be aligned with the first line  -->
 
 profile:
   align: right

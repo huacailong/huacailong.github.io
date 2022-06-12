@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: HOME
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Master Student in University at Buffalo</a>. 116, Pharmacy Building, Buffalo, NY, 14214. Email: xli267@buffalo.edu
 
 profile:
   align: right

@@ -86,7 +86,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 blog_name: Research # blog_name will be displayed in your blog page
 blog_nav_title: RESEARCH # your blog must have a title for it to be displayed in the nav bar
-blog_description: Research Experience and 
+blog_description: Current and past research experience
 permalink: /blog/:year/:title/
 
 # Pagination

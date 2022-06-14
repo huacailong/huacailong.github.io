@@ -3,7 +3,7 @@ layout: about
 title: HOME
 permalink: /
 subtitle: <a href='#'>Master Student of University at Buffalo</a>
-          <a href = "mailto: xli267@buffalo.edu">
+          <a href="mailto:xli267@buffalo.edu">xli267@buffalo.edu</a>
 
 profile:
   align: right

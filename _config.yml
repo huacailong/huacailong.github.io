@@ -109,7 +109,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  Education:
+  education:
     defaults:
       layout: post
     output: true

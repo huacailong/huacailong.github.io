@@ -13,7 +13,7 @@ profile:
     <p>200 Union St SE</p>
     <p>Minneapolis, MN 55455</p>
 
-Education: true  # includes a list of news items
+education: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---

@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'>PhD student in Salapaka Lab of UMN</a>.
+subtitle: <a href='#'>PhD student in Salapaka Lab of UMN</a>.  [Download CV Here]({{ https://huacailong.github.io }}/assets/pdf/CV_Cailong_Hua.pdf)
           <p>200 Union St SE, Minneapolis, MN55455</p> 
           <p>Email - hua00023@umn.edu</p>   
           
@@ -27,7 +27,6 @@ I am currently a Ph.D. student in [Salaphaka Lab](http://salapakalab.ece.umn.edu
 
 **Interests:** Guitar; Badminton; Football; Travelling; Reading
 
- [Download CV Here]({{ https://huacailong.github.io }}/assets/pdf/CV_Cailong_Hua.pdf)
  
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

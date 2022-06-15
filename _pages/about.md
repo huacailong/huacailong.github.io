@@ -18,7 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently a master student at Dr. Robert Bies Lab, University at Buffalo. My research interest is applying pharmacometric tools in solving the real-world problems. I'm also a self-motivated learner,   
+I'm a master student at Dr. Robert Bies Lab, University at Buffalo. My research interest is applying pharmacometric tools in solving the real-world problems. My current research focuses on estimating the HIV prevention of long-acting Cabotegravir using the population pharmacokinetic model. I'm also a self-motivated learner, keep trying all kinds of modeling and simulation methods including machine learning.
+
+**Technical Skills:** ADAPT5, NONMEM, RStudio, Phoenix WinNonLin, Pirana, Python, PK-SIM
+
 [Download CV Here]({{ https://Xinnong98.github.io }}/assets/pdf/xinnong.pdf)
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 

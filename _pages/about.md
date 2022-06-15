@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <p> Master Student of University at Buffalo</p>
+subtitle: <a Master Student of University at Buffalo</a>
           <a href="mailto:xli267@buffalo.edu">xli267@buffalo.edu</a>
 
 profile:

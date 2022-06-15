@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flappy Bird
-date: 2017-08-05 
+title: Automating Flappy Bird using Deep Q-learning
+date: 2021-07-06 
 description: Automating Flappy Bird using Deep Q-learning. 
 ---
 

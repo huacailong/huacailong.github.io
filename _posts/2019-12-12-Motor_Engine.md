@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Molecular Motor Engine
+title: Stochastic Models for Intra-cellular Cargo Transport
 date: 2019-12-12
 description: Stochastic Models for Intra-cellular Cargo Transport.
 ---

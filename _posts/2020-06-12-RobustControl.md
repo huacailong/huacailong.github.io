@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robust Control
+title: Robust control for Self-erecting Inverted Pendulum (SESIP)
 date: 2020-06-12
 description: Robust control for Self-erecting Inverted Pendulum (SESIP).
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Control Systems
+title: Control Systems, Artificial Intelligence and Reinforcement Learning related topics
 date: 2021-08-26
 description: Some Control Systems, Artificial Intelligence and Reinforcement Learning related topics.
 ---

@@ -4,8 +4,15 @@ title: Basic PK-PD Modeling
 date: 2022-06-01
 description: Classic PK-PD Model Building
 ---
+the code can be found [here](https://github.com/Xinnong98/Basic-PK-PD-Model).
 
-This theme supports generating various diagrams from a text description using [jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams){:target="\_blank"} plugin.
+
+
+
+
+
+
+<!-- This theme supports generating various diagrams from a text description using [jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams){:target="\_blank"} plugin.
 Below, we generate a few examples of such diagrams using languages such as [mermaid](https://mermaid-js.github.io/mermaid/){:target="\_blank"}, [plantuml](https://plantuml.com/){:target="\_blank"}, [vega-lite](https://vega.github.io/vega-lite/){:target="\_blank"}, etc.
 
 **Note:** different diagram-generation packages require external dependencies to be installed on your machine.
@@ -40,4 +47,4 @@ sequenceDiagram
     participant Alice
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
-{% endmermaid %}
+{% endmermaid %} -->

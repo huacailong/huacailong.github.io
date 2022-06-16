@@ -2,11 +2,29 @@
 layout: page
 permalink: /teaching/
 title: TEACH
-description: Materials for courses you taught. Replace this text with your description.
+description: List of teaching experiences. 
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Lab TA in University of Minnesota** (09/2020 - 09/2021)
+- Linear Control System Lab
+- State Space Control Lab
 
-Organize your courses by years, topics, or universities, however you like!
+
+**Lab TA in University of Minnesota** (09/2019 - 09/2020)
+- Introduction to Digital System design
+- Introduction to Microcontrollers
+
+
+**Summer Extended Learning Program in Hometown** (07/2012 - 07/2015) 
+- Created extended learning classes every summer vacation and tutored the senior high school students in the science subjects
+
+
+**Dahushan Road No.1 Primary School** (12/2013) 
+- Taught primary school students the knowledge about planetary astronomy, Chinese Geography,advanced technologies and etc.
+
+
+**Teaching Assistant for Mathematics, Shanghai Only Education** (06/2013 - 07/2013)
+- Assisted the instructor in preparing lessons, grading homework and explaining difficult points
+- Served as the lecturer to teach 40 students relevant knowledge

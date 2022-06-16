@@ -20,10 +20,11 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a master student at Dr. Robert Bies Lab, University at Buffalo. My research interest is applying pharmacometric tools in solving the real-world problems. My current research focuses on estimating the HIV prevention of long-acting Cabotegravir using the population pharmacokinetic model. I'm also a self-motivated learner, keep trying all kinds of modeling and simulation methods including machine learning.
 
-**Education:** 2016 - 2020 Shenyang Pharmaceutical University, Bachelor of Pharmacy 
-               <p>2020 - 2020 University of Minnesota</p> 
-               <p>2021 - 2023 University at Buffalo, Pharmacometrics and Personalized Pharmacotherapy</p>      
-
+**Education:**
+- 2016 - 2020 Shenyang Pharmaceutical University, Bachelor of Pharmacy
+- 2020 - 2020 University of Minnesota
+- 2021 - Present University at Buffalo, Pharmacometrics and Personalized Pharmacotherapy
+              
 **Technical Skills:** ADAPT5, NONMEM, RStudio, Phoenix WinNonLin, Pirana, Python, PK-SIM
 
 [Download CV Here]({{ https://Xinnong98.github.io }}/assets/pdf/xinnong.pdf)

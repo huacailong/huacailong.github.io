@@ -5,7 +5,8 @@ date: 2020-06-12
 description: Robust control for Self-erecting Inverted Pendulum (SESIP).
 ---
 
-Codes and reports can be seen [here](https://github.com/huacailong/Robust-Control-of-SESIP)
+Codes and reports can be seen [here](https://github.com/huacailong/Robust-Control-of-SESIP).
+
 The self-erecting single inverted pendulum (SESIP) is an unstable, multi-variable and fourth order system. We focus on the stabilizing and tracking control in this project. 
 
 In this project, the SESIP model is introduced first, then LQR control is applied with tracking the predetermined trajectory, stabilizing the inverted pendulum vertically and maintaining the input signal u(t) within 10V. Then we analyze LQR control with real uncertainty and multiplicative uncertainty. Last, we use H∞ and μ-synthesis control to further analyze the robustness and performance characteristics of the system.

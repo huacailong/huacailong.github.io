@@ -5,7 +5,7 @@ date: 2017-08-05
 description: The coursework in Imperial College London.
 ---
 
-Codes and reports can be seen [here](https://github.com/huacailong/IC-Research)
+Codes and reports can be seen [here](https://github.com/huacailong/IC-Research).
 
 **Modeling and Control of Inverted Pendulum**
 

@@ -5,7 +5,7 @@ date: 2021-07-06
 description: Automating Flappy Bird using Deep Q-learning. 
 ---
 
-Codes and reports can be seen [here](https://github.com/huacailong/Automating-Flappy-Bird-using-Deep-Q-learning)
+Codes and reports can be seen [here](https://github.com/huacailong/Automating-Flappy-Bird-using-Deep-Q-learning).
 
 
 # Automating Flappy Bird using Deep Q-learning

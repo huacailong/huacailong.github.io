@@ -7,11 +7,11 @@ description: Some Control Systems, Artificial Intelligence and Reinforcement Lea
 
 **Robust Control**
 
-Robust control methods/algorithms applied on different systems, please the corresponding PDF for more details in the code [here](https://github.com/huacailong/Robust-Control)
+Robust control methods/algorithms applied on different systems, please the corresponding PDF for more details in the code [here](https://github.com/huacailong/Robust-Control).
 
 **Nonlinear Control**
 
-Solved some nonlinear control problem here, please see codes and corresponding PDF for more details [here](https://github.com/huacailong/Nonlinear-Control)
+Solved some nonlinear control problem here, please see codes and corresponding PDF for more details [here](https://github.com/huacailong/Nonlinear-Control).
 
 **Optimal Filtering**
 

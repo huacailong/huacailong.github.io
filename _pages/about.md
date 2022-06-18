@@ -13,7 +13,7 @@ profile:
     <p>Buffalo, NY, 14214</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -21,8 +21,8 @@ I'm a master student at Dr. Robert Bies Lab, University at Buffalo. My research 
 
 **Education:**
 - Shenyang Pharmaceutical University (2016 - 2020), Bachelor of Pharmacy
-- University of Minnesota (2020 - 2020)
-- University at Buffalo (2021 - Present), Pharmacometrics and Personalized Pharmacotherapy
+- University of Minnesota (2020 - 2020), Student Intern
+- University at Buffalo (2021 - Present), Master student of Pharmacometrics and Personalized Pharmacotherapy
               
 **Technical Skills:** ADAPT5, NONMEM, RStudio, Phoenix WinNonLin, Pirana, Python, PK-SIM
 

@@ -3,7 +3,7 @@ layout: about
 title: HOME
 permalink: /
 subtitle: <a href='#'>Master Student of University at Buffalo</a>
-          <p><a href="mailto:xli267@buffalo.edu">xli267@buffalo.edu</a></p>
+          <p><a href="mailto:xli267@buffalo.edu">xli267@buffalo.edu</a></p>     
 
 profile:
   align: right
@@ -19,14 +19,16 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a master student at Dr. Robert Bies Lab, University at Buffalo. My research interest is applying pharmacometric tools in solving the real-world problems. My current research focuses on estimating the HIV prevention of long-acting Cabotegravir using the population pharmacokinetic model. I'm also a self-motivated learner, keep trying all kinds of modeling and simulation methods including machine learning.
 
+[Download CV Here]({{ https://Xinnong98.github.io }}/assets/pdf/xinnong.pdf)
+
 **Education:**
-- Shenyang Pharmaceutical University (2016 - 2020), Bachelor of Pharmacy
-- University of Minnesota (2020 - 2020), Student Intern
 - University at Buffalo (2021 - Present), Master student of Pharmacometrics and Personalized Pharmacotherapy
+- University of Minnesota (2020 - 2020), Student Intern
+- Shenyang Pharmaceutical University (2016 - 2020), Bachelor of Pharmacy 
               
 **Technical Skills:** ADAPT5, NONMEM, RStudio, Phoenix WinNonLin, Pirana, Python, PK-SIM
 
-[Download CV Here]({{ https://Xinnong98.github.io }}/assets/pdf/xinnong.pdf)
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->

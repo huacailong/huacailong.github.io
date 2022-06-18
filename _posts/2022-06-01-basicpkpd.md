@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Basic PK-PD Modeling
-date: 2022-06-01
-description: Classic PK-PD Model Building
+date: 2022-05-15
+description: Classic PK-PD Model Building Exercise
 ---
 
 ### Description:

@@ -82,19 +82,20 @@
       institution: Imperial College London, London, UK 
       year: 2016-2017
       description:
-#         - title: Synthetic Inertia Provision by Coordinating Wind Turbines in a Wind Farm
-#           contents:
-#             - Designed the mechanical models of a single wind turbine.
-#             - Designed a wind farm model connected to the electrical grid through interface model.
-#             - Applied the approach to release part of the kinetic energy stored in the rotating shafts by slowing the turbines to generate extra power when frequency changes.
+        - Projects are summaried below
+        - title: Synthetic Inertia Provision by Coordinating Wind Turbines in a Wind Farm
+          contents:
+            - Designed the mechanical models of a single wind turbine.
+            - Designed a wind farm model connected to the electrical grid through interface model.
+            - Applied the approach to release part of the kinetic energy stored in the rotating shafts by slowing the turbines to generate extra power when frequency changes.
         
-#         - title: Modeling and Control of Inverted Pendulum
-#           contents:
-#             - Conducted inverted pendulum modeling with Euler-Lagrange equation and obtained a non-linear model.
-#             - Linearized non-linear model and designed a controller with the model in Simulink.
-#             - Adopted traditional closed-loop control to stabilize the inverted pendulum on the highest point and used model predictive control (MPC) to track a predetermined loop.
-#             - Converted continuous-time system to discrete-time system and then designed the controller.
-#             - Compared discrete-time and continuous-time systems, and realized the importance of the sampling time.
+        - title: Modeling and Control of Inverted Pendulum
+          contents:
+            - Conducted inverted pendulum modeling with Euler-Lagrange equation and obtained a non-linear model.
+            - Linearized non-linear model and designed a controller with the model in Simulink.
+            - Adopted traditional closed-loop control to stabilize the inverted pendulum on the highest point and used model predictive control (MPC) to track a predetermined loop.
+            - Converted continuous-time system to discrete-time system and then designed the controller.
+            - Compared discrete-time and continuous-time systems, and realized the importance of the sampling time.
             
 #         - title: Multivariable Design of the HI-MAT Experimental Aircraft 
 #           contents:

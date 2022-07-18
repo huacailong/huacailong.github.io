@@ -82,7 +82,6 @@
       institution: Imperial College London, London, UK 
       year: 2016-2017
       description:
-        - Control related projects are summarized here. 
         - title: Synthetic Inertia Provision by Coordinating Wind Turbines in a Wind Farm
           contents:
             - Designed the mechanical models of a single wind turbine.
@@ -108,7 +107,7 @@
             - Performed a simulation with Matlab to obtain the actual parameters.   
             - Compared theoretical findings with empirical estimates obtained by Least Squares (LS) techniques and showed the effects of colored noise on the LS estimates.
             
-         - title: Modeling and Control of Multibody Mechanical Systems
+        - title: Modeling and Control of Multibody Mechanical Systems
           contents:
             - Conducted force analysis on the spring connected to the wheels of grocery trolleys and obtained non-linear model.   
             - Linearized non-linear model and observed its stability, robustness and other features.

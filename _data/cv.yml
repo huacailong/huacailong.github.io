@@ -2,38 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xinnong Li
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master in Pharmacometrics and Personalized Pharmacotherapy
+      institution: University at Buffalo, Buffalo, United States
+      year: 2021 - 2023
+    - title: Student Intern
+      institution: University of Minnesota, Minneapolis, United States
+      year: 2020
+    - title: Bachelor of Pharmacy
+      institution: Shenyang Pharmaceutical University, Shenyang, China
+      year: 2016 - 2020
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Master Student 
+      institution: Dr. Robert Bies Lab, University at Buffalo
+      year: Jan 2022 - present
       description:
         - Description 1.
         - Description 2.
@@ -41,15 +32,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Student Intern
+      institution: Dr. Karunya Kandimalla Lab, University of Minnesota
+      year: Jan 2020 - Jun 2020
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    - title: Research Assistant 
+      institution: Center for Quantitative Clinical Pharmacology, Shenyang Pharmaceutical University
       year: 1917-1933
 
     - title: Professor of Theoretical Physics

@@ -5,6 +5,8 @@
       value: Xinnong Li
     - name: Languages
       value: English, Chinese
+    - name: Email
+      value: xli267@buffalo.edu
 
 - title: Education
   type: time_table
@@ -36,15 +38,13 @@
       institution: Dr. Karunya Kandimalla Lab, University of Minnesota
       year: Jan 2020 - Jun 2020
       description:
-        - Established a four-compartment pharmacokinetic model to evaluate the effect of AB40 exposure
-        on Blood- Brain glucose transfer in Alzheimer’s Disease
+        - Established a four-compartment pharmacokinetic model to evaluate the effect of AB40 exposure on Blood- Brain glucose transfer in Alzheimer’s Disease
 
     - title: Research Assistant 
       institution: Center for Quantitative Clinical Pharmacology, Shenyang Pharmaceutical University
       year: May 2019 - Jan 2020
       description:
-        - Conducted literature review to summarize data and equations, established Azithromycin PBPK model
-        using PK-Sim and MoBi, and wrote the manuscript
+        - Conducted literature review to summarize data and equations, established Azithromycin PBPK model using PK-Sim and MoBi, and wrote the manuscript
 
 - title: Honors and Awards
   type: time_table

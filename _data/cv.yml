@@ -147,8 +147,7 @@
       description:
         - Lab TA of Linear Control Lab with topics on DC motor, maglev system, etc.
         - Lab TA of State Space Control Lab with topics on maglev system, torsion system, inverted pendulum, gyroscope, DC motor, etc.
-
-  contents:
+        
     - title: Lab TA at University of Minnesota
       year: 09/2019 - 05/2020
       description:
@@ -174,11 +173,12 @@
       items: 
         - Third-Class Scholarship, Tongji University 
         
-    - year: 2014
+    - year: 2013
       items: 
         - China National Scholarship
         - First-Class Scholarship, Tongji University
         - Excellent Volunteer, College of Electronics Information Engineering, Tongji University
+        
         
 - title: Academic Interests
   type: nested_list

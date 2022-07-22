@@ -28,12 +28,8 @@
       institution: Dr. Robert Bies Lab, University at Buffalo
       year: Jan 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Estimated Cabotegravir long-acting response in preventing HIV by calculating AUC, PAIC timeframe based on population pharmacokinetic model
+        
     - title: Student Intern
       institution: Dr. Karunya Kandimalla Lab, University of Minnesota
       year: Jan 2020 - Jun 2020
@@ -69,4 +65,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Writing Novels, Play drums
+    - <u>Hobbies:</u> Writing novels, Play drums

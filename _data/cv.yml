@@ -45,16 +45,38 @@
 - title: Experience
   type: time_table
   contents:
+      - title: HUMBI, Pose-Guided Human Rendering Challenge
+      institution: University of Minnesota - twin cities campus, Minnesota, US 
+      year: 09/2021 - 12/2021
+      description:
+        - Pose-guided person image generation, which is to synthesize a realistic image of the person with the target pose based on a source image showing the person with a given pose
+        - Used a hybrid model by combining the pose transfer framework with the XingGAN aiming to get a performance improvement.
+        - Found out our method has advantages in pose transfer of the person, but not on backgrounds
+        
+    - title: A Research on Performance Discrepancy for Varying Fine-tuning Layers and Pooling Strategies of BERT
+      institution: University of Minnesota - twin cities campus, Minnesota, US 
+      year: 09/2020 - 12/2020
+      description:
+        - Investigate how different fine-tuning layers and pooling strategies will influence the performance of BERT model.
+        - Found that its possible to improve performance when different kinds of finetune layers are added for information post-processing from hidden states of BERT.
+        
+    - title: Robust control for Self-erecting Inverted Pendulum (SESIP)
+      institution: University of Minnesota - twin cities campus, Minnesota, US 
+      year: 02/2020 - 05/2020
+      description:
+        - Stabilized and tracked control of the unstable self-erecting single inverted pendulum (SESIP).
+        - Implemented double PID control, LQR control, H∞ and μ−synthesis control to analyze the robustness and uncertainty of the system.
+        
     - title: Automating Flappy Bird using Deep Q-Learning
       institution: University of Minnesota - twin cities campus, Minnesota, US 
-      year: 2019
+      year: 09/2019 - 12/2019
       description:
         - The bird is our agent and environment consists of obstacles in form of pipes of different heights.
         - Applied and implemented modern Reinforcement Learning technique to automate Flappy Bird game to navigate to maximize its score in the end.
 
     - title: Stochastic Models for Intra-cellular Cargo Transport
       institution: University of Minnesota - twin cities campus, Minnesota, US 
-      year: 2019
+      year: 11/2019 - 12/2019
       description:
         - Modelled the cargo transport process as a combination of free diffusion and motor based transport.
         - Obtained time-evolution of the position and velocity of the cargo.
@@ -68,7 +90,7 @@
 
     - title: Harbin Institute of Technology (HIT)-UAV Lab
       institution: Harbin Institute of Technology, Harbin, China
-      year: 2018
+      year: 08/2018
       description:
         - Familiarized with different types of Unmanned Aerial Vehicles (UVA), and conducted flight mechanics research on quadrotor UAV and fixed-wing UAV.
         - Learned the sensors and actuators of UAV, drew Printed Circuit Board (PCB) with Kicard and designed flight control systems.

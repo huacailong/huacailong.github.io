@@ -36,21 +36,15 @@
       institution: Dr. Karunya Kandimalla Lab, University of Minnesota
       year: Jan 2020 - Jun 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Established a four-compartment pharmacokinetic model to evaluate the effect of AB40 exposure
+        on Blood- Brain glucose transfer in Alzheimer’s Disease
 
     - title: Research Assistant 
       institution: Center for Quantitative Clinical Pharmacology, Shenyang Pharmaceutical University
       year: May 2019 - Jan 2020
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
       description:
-
-    - title: Group Leader of Innovation Program
-      institution: Key Laboratory of Structure-Based Drug Design and Discovery, Shenyang Pharmaceutical University
-      year: May 2018 - Apr 2019
+        - Conducted literature review to summarize data and equations, established Azithromycin PBPK model
+        using PK-Sim and MoBi, and wrote the manuscript
 
 - title: Honors and Awards
   type: time_table
@@ -65,16 +59,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Population PK/PD Model
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - HIV
+   
+    - title: Pharmacometrics
       items:
-        - Description 1.
-        - Description 2.
+        - Machine Learning
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Writing Novels, Play drums

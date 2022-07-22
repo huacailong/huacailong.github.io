@@ -51,7 +51,7 @@
       description:
         - Pose-guided person image generation, which is to synthesize a realistic image of the person with the target pose based on a source image showing the person with a given pose
         - Used a hybrid model by combining the pose transfer framework with the XingGAN aiming to get a performance improvement.
-        - Found out our method has advantages in pose transfer of the person, but not on backgrounds
+        - Found out our method has advantages in pose transfer of the person, but not on backgrounds.
         
     - title: A Research on Performance Discrepancy for Varying Fine-tuning Layers and Pooling Strategies of BERT
       institution: University of Minnesota - twin cities campus, Minnesota, US 

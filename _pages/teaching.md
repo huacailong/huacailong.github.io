@@ -4,7 +4,7 @@ permalink: /teaching/
 title: TEACH
 description: List of teaching experiences. 
 nav: false
-nav_order: 2
+nav_order: 4
 ---
 
 **Lab TA in University of Minnesota** (09/2020 - 09/2021)

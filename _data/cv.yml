@@ -139,6 +139,24 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Teaching Experiences
+  type: time_table
+  contents:
+    - title: Lab TA at University of Minnesota
+      year: 09/2020 - 05/2021
+      description:
+        - Lab TA of Linear Control Lab with topics on DC motor, maglev system, etc.
+        - Lab TA of State Space Control Lab with topics on maglev system, torsion system, inverted pendulum, gyroscope, DC motor, etc.
+
+  contents:
+    - title: Lab TA at University of Minnesota
+      year: 09/2019 - 05/2020
+      description:
+        - Lab TA of Introduction to Digital System design with topics on four-way stoplight controller, Flip-Flops and multiplier, etc.
+        - Lab TA of Introduction to Microcontrollers with topics on programming, data structures, register maps, etc.
+
+
+
 - title: Honors and Awards
   type: time_table
   contents:

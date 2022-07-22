@@ -24,7 +24,7 @@ I am currently a Ph.D. student in [Salaphaka Lab](http://salapakalab.ece.umn.edu
 
 **Languages:** Native Speaker of Chinese; Native Speaker Level of English; Average Level of Italian
 
-**Interests:** Guitar; Badminton; Football; Travelling; Reading
+**Interests:** Swimming; Guitar; Badminton; Football; Travelling; Reading
 
  [Download CV Here]({{ https://huacailong.github.io }}/assets/pdf/CV_Cailong_Hua.pdf)
  

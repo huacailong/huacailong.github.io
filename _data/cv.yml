@@ -45,7 +45,7 @@
 - title: Experience
   type: time_table
   contents:
-      - title: HUMBI, Pose-Guided Human Rendering Challenge
+    - title: HUMBI, Pose-Guided Human Rendering Challenge
       institution: University of Minnesota - twin cities campus, Minnesota, US 
       year: 09/2021 - 12/2021
       description:
@@ -139,17 +139,29 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2016
+      items: 
+        - Outstanding Graduate, Tongji University
+        - Third-Class Scholarship, Tongji University
+    - year: 2015
+      items: 
+        - Social Activity Scholarship, Tongji University
+        - Third-Class Scholarship, Tongji University
+        - China Scholarship Council Scholarship
 
+    - year: 2014
+      items: 
+        - Third-Class Scholarship, Tongji University 
+        
+    - year: 2014
+      items: 
+        - China National Scholarship
+        - First-Class Scholarship, Tongji University
+        - Excellent Volunteer, College of Electronics Information Engineering, Tongji University
+        
 - title: Academic Interests
   type: nested_list
   contents:

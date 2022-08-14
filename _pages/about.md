@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a master student at Dr. Robert Bies Lab, University at Buffalo. My research interest is applying pharmacometric tools in solving the real-world problems. My current research focuses on estimating the HIV prevention of long-acting Cabotegravir using the population pharmacokinetic model. I'm also a self-motivated learner, keep trying all kinds of modeling and simulation methods.
+I'm a master student at Dr. Robert Bies Lab, University at Buffalo. My research interest is applying pharmacometric tools in solving the real-world problems. My current research focuses on estimating the HIV prevention of long-acting Cabotegravir using the population pharmacokinetic model. I'm also a self-motivated learner, keep trying all kinds of modeling and simulation methods including machine learning.
 
 [Download CV Here]({{ https://Xinnong98.github.io }}/assets/pdf/xinnong.pdf)
 

@@ -28,7 +28,7 @@ I am currently a Ph.D. student in [Salaphaka Lab](http://salapakalab.ece.umn.edu
 
  [Download CV Here]({{ https://huacailong.github.io }}/assets/pdf/CV_Cailong_Hua.pdf)
  
- [Download Resume Here]({{ https://huacailong.github.io }}/assets/pdf/Resume_Cailong_Hua.pdf)
+ [Download Resume Here]({{ https://huacailong.github.io }}/assets/pdf/Resume_Cailong.pdf)
  
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

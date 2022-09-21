@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Flappy Bird using Deep Q-learning
+title: Automating Game using Deep Reinforcement Learning
 date: 2021-07-06 
 description: Automating Flappy Bird using Deep Q-learning. 
 ---

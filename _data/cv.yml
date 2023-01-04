@@ -45,36 +45,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: HUMBI, Pose-Guided Human Rendering Challenge
+    - title: Graduate Research Assistant at University of Minnesota
       institution: University of Minnesota - twin cities campus, Minnesota, US 
-      year: 09/2021 - 12/2021
+      year: 06/2020 - Present
       description:
-        - Pose-guided person image generation, which is to synthesize a realistic image of the person with the target pose based on a source image showing the person with a given pose
-        - Used a hybrid model by combining the pose transfer framework with the XingGAN aiming to get a performance improvement.
-        - Found out our method has advantages in pose transfer of the person, but not on backgrounds.
+        - My main research interests lie in \underline{control systems}, \underline{non-equilibrium statistical mechanics}, and \underline{machine} \underline{learning}.
+        - My current research focuses on the non-equilibrium toolbox and uses non-equilibrium statistical mechanics to improve machine learning techniques.
+        - Duchenne muscular dystrophy (DMD) is a lethal muscle wasting disease caused by the absence of the protein dystrophin. My current project studies mechanical properties of dystrophin and its homologue, utrophin. 
         
-    - title: A Research on Performance Discrepancy for Varying Fine-tuning Layers and Pooling Strategies of BERT
-      institution: University of Minnesota - twin cities campus, Minnesota, US 
-      year: 09/2020 - 12/2020
-      description:
-        - Investigate how different fine-tuning layers and pooling strategies will influence the performance of BERT model.
-        - Found that its possible to improve performance when different kinds of finetune layers are added for information post-processing from hidden states of BERT.
-        
-    - title: Robust control for Self-erecting Inverted Pendulum (SESIP)
-      institution: University of Minnesota - twin cities campus, Minnesota, US 
-      year: 02/2020 - 05/2020
-      description:
-        - Stabilized and tracked control of the unstable self-erecting single inverted pendulum (SESIP).
-        - Implemented double PID control, LQR control, H∞ and μ−synthesis control to analyze the robustness and uncertainty of the system.
-        
-    - title: Automating Flappy Bird using Deep Q-Learning
-      institution: University of Minnesota - twin cities campus, Minnesota, US 
-      year: 09/2019 - 12/2019
-      description:
-        - The bird is our agent and environment consists of obstacles in form of pipes of different heights.
-        - Applied and implemented modern Reinforcement Learning technique to automate Flappy Bird game to navigate to maximize its score in the end.
-
-
 # - title: Open Source Projects
 #   type: time_table
 #   contents:

@@ -49,7 +49,7 @@
       institution: University of Minnesota - twin cities campus, Minnesota, US 
       year: 06/2020 - Present
       description:
-        - My main research interests lie in \underline{control systems}, \underline{non-equilibrium statistical mechanics}, and \underline{machine} \underline{learning}.
+        - My main research interests lie in <ins>control systems</ins>, <ins>non-equilibrium statistical mechanics<ins>, and <ins>machine learning<ins>.
         - My current research focuses on the non-equilibrium toolbox and uses non-equilibrium statistical mechanics to improve machine learning techniques.
         - Duchenne muscular dystrophy (DMD) is a lethal muscle wasting disease caused by the absence of the protein dystrophin. My current project studies mechanical properties of dystrophin and its homologue, utrophin. 
         

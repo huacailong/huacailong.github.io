@@ -63,25 +63,25 @@
 
 
        
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Non-equilibrium Statistical Mechanics
-      items: 
-        - An ensemble measurements of non-equilibrium work done can lead to equilibrium information, free energy difference.
-        - Worked in the case when only finite number of samples are available.
-    - title: Control Systems
-      items:
-        - Design and control of inverted pendulum, DC motors, maglev system, Torsion system and Gyroscope.
-        - Took robust control, predicative control, linear control system, multi-variable control, discrete-time control, optimal control, etc.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Non-equilibrium Statistical Mechanics
+#      items: 
+#        - An ensemble measurements of non-equilibrium work done can lead to equilibrium information, free energy difference.
+#        - Worked in the case when only finite number of samples are available.
+#    - title: Control Systems
+#      items:
+#        - Design and control of inverted pendulum, DC motors, maglev system, Torsion system and Gyroscope.
+#        - Took robust control, predicative control, linear control system, multi-variable control, discrete-time control, optimal control, etc.
         
-    - title: Machine Learning
-      items:
-        - Conducted human detection on HUMBI dataset, analysis on BERT algorithm and some codes from scratch of machine learning algorithms.
-        - Interested into the connection between non-equilibrium mechanics and machine learning.
+#    - title: Machine Learning
+#      items:
+#        - Conducted human detection on HUMBI dataset, analysis on BERT algorithm and some codes from scratch of machine learning algorithms.
+#        - Interested into the connection between non-equilibrium mechanics and machine learning.
 
 - title: Other Information
   type: list
   contents:
-    - <u>Technical Skills:</u> Matlab, Simulink, Verilog, Python, Latex, C++, Kicad, Mission planner, Keil, AMPL, Microsoft, etc.
+    - <u>Technical Skills:</u> Matlab, Simulink, Python, Latex, C++, etc.
     - <u>Hobbies:</u> Guitar, Badminton, Football, Travelling, Reading, Swimming, etc.

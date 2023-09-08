@@ -7,7 +7,4 @@ dropdown: true
 children: 
     - title: TEACH
       permalink: /teaching/
-    - title: divider
-    - title: PROJECTS
-      permalink: /projects/
 ---

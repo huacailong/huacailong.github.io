@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UMN Projects
-date: 2019-12-12
+date: 2022-12-12
 description: Projects at University of Minnesota
 ---
 

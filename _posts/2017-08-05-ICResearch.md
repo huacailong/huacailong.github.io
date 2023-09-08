@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imperial College Research
+title: Imperial College Projects
 date: 2017-08-05 
 description: The coursework in Imperial College London.
 ---

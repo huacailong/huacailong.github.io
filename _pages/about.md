@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'>PhD student in Salapaka Lab of UMN</a>. 
+subtitle: <a>PhD candidate in Salapaka Lab of UMN</a>. 
           <p><a href="mailto:hua00023@umn.edu">hua00023@umn.edu</a></p>
           
 

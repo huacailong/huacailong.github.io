@@ -58,3 +58,20 @@ Advisor: Dr. A. Astolfi
 Advisor: Dr. I.M.Jamouka
 - Learned the a lightly damped beam example to master its properties, including performance, robustness, sensitivity and designed controller by <img src="http://www.sciweavers.org/tex2img.php?eq=H_%5Cinfty%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="H_\infty " width="28" height="17" /> design
 - Performed control design of HI-MAT experimental aircraft and compared different controllers
+
+**Harbin Institute of Technology (HIT)-UAV Lab**
+
+Advisor: Dr. Guoxing Yin
+- Familiarized with different types of Unmanned Aerial Vehicles (UVA), and conducted flight me- chanics research on quadrotor UAV and fixed-wing UAV
+- Learned the sensors and actuators of UAV, drew Printed Circuit Board (PCB) with Kicard and designed flight control systems
+- Learned MEMS related devices and mastered the skills of measuring zero offset and corresponding parameters of devices, for example, gyroscope and accelerometer
+- Conducted UVA modeling using Simulink and simulated the landing process,and adjusted the PID value to determine the optimal controller
+- Assembled a quadrotor UAV, and used Mission Planner software to calibrate UAV and remote controller
+
+
+**Tianjin University-Adaptive Control Algorithm Lab**
+Advisor: Dr. Qun Zong
+- Self-learned the knowledge of nonlinear control, adaptive control and robust control
+- Attended the courses including Intelligent Robot System (Perception, Navigation and Control) and Predictive Control to consolidate foundation
+- Participated in adaptive algorithms-related research with group members
+

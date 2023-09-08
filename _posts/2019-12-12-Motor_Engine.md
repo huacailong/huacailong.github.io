@@ -5,6 +5,8 @@ date: 2019-12-12
 description: Projects at University of Minnesota
 ---
 
+This records all projects done at University of Minnesota
+
 ***
 # Stochastic Models for Intra-cellular Cargo Transport (2019)
 ### Overall Goal:
@@ -75,7 +77,7 @@ The pretrained model is saved in the folder "pretrained_model_vector"
 
 
 
-
+***
 # Robust control for Self-erecting Inverted Pendulum (SESIP) (2020)
 Codes and reports can be seen [here](https://github.com/huacailong/Robust-Control-of-SESIP).
 
@@ -94,7 +96,7 @@ Last, we move to H∞ and μ-synthesis control to get a more robust controller b
 
 
 
-
+***
 # A Research on Performance Discrepancy for Varying Fine-tuning Layers and Pooling Strategies of BERT (2021)
 Codes and reports can be seen [here](https://github.com/huacailong/BERT-Performance).
 
@@ -110,7 +112,7 @@ Please see PDF for more information!
 
 
 
-
+***
 # Machine Learning Algorithms From Scratch (2021)
 Codes and reports can be seen [here](https://github.com/huacailong/Machine-Learning).
 
@@ -169,7 +171,7 @@ The function takes the form: kmeans(image = "/Users/huacailong/Desktop/CSCI5525/
 
 
 
-
+***
 # Control Systems, Artificial Intelligence and Reinforcement Learning related topics (2021)
 **Robust Control**
 
@@ -191,8 +193,7 @@ All codes are in Jupyter Notebook [here](https://github.com/huacailong/RL-and-AI
 
 
 
-
-
+***
 # Computer Vision Related Problem (2022)
 Wrote codes from scratch to deal with the computer vision related problems, the code can be found [here](https://github.com/huacailong/Computer-Vision). 
 
@@ -224,7 +225,7 @@ Wrote codes from scratch to deal with the computer vision related problems, the 
 
 
 
-
+***
 #  Langevin-based Sampling Algorithms with Energy-Based Models (2022)
 Codes and thesis can be seen [here](https://github.com/huacailong/Energy_Based_Models). 
 
@@ -277,7 +278,7 @@ Moreover, we trained EBM with three different sampling methods on MNIST dataset.
 
 
 
-
+***
 # HUMBI: Pose-Guided Human Rendering Challenge (2022)
 Codes and thesis can be seen [here](https://github.com/huacailong/HUMBI).
 Pose-guided person image generation, which is to synthesize a realistic image of the person with the target pose based on a source image showing the person with a given pose, has attracted much attention recently.
@@ -338,4 +339,11 @@ In total, XingGAN with CNN yields the best similarity between the targe images a
 - Then use those test python files to test your trained XingGAN on the HUMBI dataset, the result is available in the folder results/ 
 - Then use tool/getMetrics_humbi_9blocks.py to get the scores. 
 
+
+
+***
+#  Causality for Protein Modelling (2022)
+- Uncovered causal relations from protein pulling data
+- Quantified the change of effects among protein properties
+- Examined both above questions assuming the existence of unobserved data.
 

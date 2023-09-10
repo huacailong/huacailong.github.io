@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a>PhD candidate in Salapaka Lab of UMN</a>. 
+subtitle: <a>PhD candidate | Salapaka Lab | University of Minnesota</a>. 
           <p><a href="mailto:hua00023@umn.edu">hua00023@umn.edu</a></p>
           
 
@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. student in [Salaphaka Lab](http://salapakalab.ece.umn.edu/) at UMN. I received my Master's degree in Control System with Distinction from Imperial College London. I obtained Bachelor's degrees in Automation Engineering from Politecnico di Milano in Italy and from Electronic Information and Engineering from Tongji University in China. My main research interests lie in control systems, non-equilibrium statistical mechanics, and machine learning. My current research focuses on the non-equilibrium toolbox and uses non-equilibrium statistical mechanics to improve machine learning techniques. Duchenne muscular dystrophy (DMD) is a lethal muscle wasting disease caused by the absence of the protein dystrophin. My current project studies the mechanical properties of dystrophin and its homologue, utrophin. 
+I am a Ph.D. candidate in [Salaphaka Lab](http://salapakalab.ece.umn.edu/) at the University of Minnesota. I received my Master's degree in Control System with Distinction from Imperial College London. I obtained Bachelor's degrees in Automation Engineering from Politecnico di Milano in Italy and from Electronic Information and Engineering from Tongji University in China. 
+
+My main research interests lie in control systems, non-equilibrium statistical mechanics, and machine learning. My current research focuses on the non-equilibrium toolbox and uses non-equilibrium statistical mechanics to improve machine learning techniques. My current project studies the mechanical properties of muscle proteins, dystrophin and utrophin, whose absence would lead to a lethal muscle wasting disease called Duchenne muscular dystrophy (DMD).
 
 
  [Download CV Here]({{ https://huacailong.github.io }}/assets/pdf/CV_Cailong_Hua.pdf)

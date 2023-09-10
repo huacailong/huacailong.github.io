@@ -8,6 +8,9 @@ description: Projects at University of Minnesota
 This records all projects done at the University of Minnesota
 
 ***
+***
+***
+
 # Stochastic Models for Intra-cellular Cargo Transport (2019)
 ### Overall Goal:
 - To model the cargo transport process as a combination of free diffusion and motor based transport

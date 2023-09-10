@@ -5,7 +5,7 @@ date: 2022-12-12
 description: Projects at University of Minnesota
 ---
 
-This records all projects done at University of Minnesota
+This records all projects done at the University of Minnesota
 
 ***
 # Stochastic Models for Intra-cellular Cargo Transport (2019)
@@ -20,6 +20,7 @@ This records all projects done at University of Minnesota
 - Analytical: Attempt to find analytical solution to the joint SDEs with Poisson jumps and regime switching
 
 The code can be found [here](https://github.com/huacailong/Molecular-Motor-Engine).
+
 ***
 
 

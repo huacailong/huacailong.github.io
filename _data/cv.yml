@@ -49,9 +49,18 @@
       institution: University of Minnesota - twin cities campus, Minnesota, US 
       year: 06/2020 - Present
       description:
-        - My main research interests lie in <ins>control systems</ins>, <ins>non-equilibrium statistical mechanics<ins>, and <ins>machine learning<ins>.
-        - My current research focuses on the non-equilibrium toolbox and uses non-equilibrium statistical mechanics to improve machine learning techniques.
-        - Duchenne muscular dystrophy (DMD) is a lethal muscle wasting disease caused by the absence of the protein dystrophin. My current project studies mechanical properties of dystrophin and its homologue, utrophin. 
+        - Developed algorithm for quantifying errors in non-equilibrium experiments and implemented the algorithm with a Python-based toolbox
+        - Developed Monte Carlo simulation to replicate experimental processes
+        - Developed muscle protein modeling by conducting a statistical analysis of experimental data
+        - Identified single molecular data using deep learning models with physics augmentation
+
+    - title: Data Scientist Intern
+      institution: University of Phoenix, Inc.
+      year: 05/2024 - 08/2024
+      description:
+        - Fine-tuned large language models (LLMs) to task-specific data
+        - Evaluated various parameter-efficient fine-tuning (PEFT) methods on different pre-trained LLMs
+        - Built a chatbot in Amazon Web Service (AWS) to interact with fine-tuned LLMs
         
 # - title: Open Source Projects
 #   type: time_table
@@ -83,5 +92,5 @@
 - title: Other Information
   type: list
   contents:
-    - <u>Technical Skills:</u> Matlab, Simulink, Python, Latex, C++, etc.
+    - <u>Technical Skills:</u> Matlab, Simulink, Python, AWS, Latex, C++, etc.
     - <u>Hobbies:</u> Guitar, Badminton, Football, Travelling, Reading, Swimming, etc.

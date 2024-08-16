@@ -20,12 +20,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate in [Salaphaka Lab](http://salapakalab.ece.umn.edu/) at the University of Minnesota. I received my Master's degree in Control System with Distinction from Imperial College London. I obtained Bachelor's degrees in Automation Engineering from Politecnico di Milano in Italy and from Electronic Information and Engineering from Tongji University in China. 
 
-My main research interests lie in control systems, non-equilibrium statistical mechanics, and machine learning. My current research focuses on the non-equilibrium toolbox and uses non-equilibrium statistical mechanics to improve machine learning techniques. My current project studies the mechanical properties of muscle proteins, dystrophin and utrophin, whose absence would lead to a lethal muscle wasting disease called Duchenne muscular dystrophy (DMD).
-
+My primary research interests encompass control systems, statistical mechanics, biophysics, and machine learning. My work focuses on developing both experimental and analytical tools to model the mechanical properties of proteins at the single-molecule scale, as well as advancing AI methods to better understand single-molecule data.
 
  [Download CV Here]({{ https://huacailong.github.io }}/assets/pdf/CV_Cailong_Hua.pdf)
  
- [Download Resume Here]({{ https://huacailong.github.io }}/assets/pdf/Resume_Cailong.pdf)
+<!--  [Download Resume Here]({{ https://huacailong.github.io }}/assets/pdf/Resume_Cailong.pdf) -->
  
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

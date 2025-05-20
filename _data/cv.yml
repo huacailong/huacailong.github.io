@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Cailong Hua
-    # - name: Languages
-    #   value: English, Chinese, Italian
     - name: Email
       value: hua00023@umn.edu
 
@@ -14,33 +12,15 @@
     - title: PhD Student in Electrical and Computer engineering
       institution: University of Minnesota - twin cities campus, Minnesota, US 
       year: 2019 - current
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
     - title: MSc. in Control Systems with Distinction 
       institution: Imperial College London, London, UK 
       year: 2016 - 2017
-#       description:
-#         - Description 1.
-#         - Description 2.
-
     - title: BSc. in Automation Engineering
       institution: Politecnico di Milano, Milano, Italy
       year: 2015 - 2016
-#       description:
-#         - Description 1.
-#         - Description 2.
-
     - title: BEng. in Electronic Information and Engineering (Sino-Italian Double Bachelor Degree Program)
       institution: Tongji University, Shanghai, China
       year: 2012 - 2016
-#       description:
-#         - Description 1.
-#         - Description 2.
 
 - title: Experience
   type: time_table
@@ -69,4 +49,5 @@
   type: list
   contents:
     - <u>Technical Skills:</u> Matlab, Simulink, Python, AWS, Latex, C++, etc.
+    - <u>Hobbies:</u> Guitar, Badminton, Football, Travelling, Reading, Swimming, etc.
 

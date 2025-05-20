@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate in [Salaphaka Lab](http://salapakalab.ece.umn.edu/) at the University of Minnesota. I received my Master's degree in Control System with Distinction from Imperial College London. I obtained Bachelor's degrees in Automation Engineering from Politecnico di Milano in Italy and from Electronic Information and Engineering from Tongji University in China. 
 
-My primary research interests encompass control systems, statistical mechanics, biophysics, and machine learning. My work focuses on developing both experimental and analytical tools to model the mechanical properties of proteins at the single-molecule scale, as well as advancing AI methods to better understand single-molecule data.
+My background spans machine learning, large language models (LLMs), signal processing, and data analysis. Specifically, I have developed advanced statistical algorithms to quantify error in non-equilibrium experiments and automated time-series analysis of single-molecule data using a physics-informed deep learning model. During my internship at the University of Phoenix, I fine-tuned LLMs using parameter-efficient methods and deployed chatbots on AWS.
+
+
 
  [Download CV Here]({{ https://huacailong.github.io }}/assets/pdf/CV_Cailong_Hua.pdf)
  

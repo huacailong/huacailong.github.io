@@ -49,5 +49,5 @@
   type: list
   contents:
     - <u>Technical Skills:</u> Matlab, Simulink, Python, AWS, Latex, C++, etc.
-    - <u>Hobbies:</u> Guitar, Badminton, Football, Travelling, Reading, Swimming, etc.
+    # - <u>Hobbies:</u> Guitar, Badminton, Football, Travelling, Reading, Swimming, etc.
 

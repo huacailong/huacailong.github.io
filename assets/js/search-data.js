@@ -466,7 +466,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=Cailong Hua", "_blank");
+          window.open("https://scholar.google.com/citations?user=JE2mpXkAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',

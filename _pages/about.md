@@ -8,7 +8,7 @@ subtitle: <a>PhD candidate | Salapaka Lab | University of Minnesota</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: >
     <p>200 Union St SE</p>
     <p>Minneapolis, MN 55455</p>

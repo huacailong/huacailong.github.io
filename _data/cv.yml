@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Cailong Hua
-    - name: Languages
-      value: English, Chinese, Italian
+    # - name: Languages
+    #   value: English, Chinese, Italian
     - name: Email
       value: hua00023@umn.edu
 
